@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'công chúa.',
+    messDesc: 'IU ANH.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://facebook.com/profile.php?id=100011090316948' 
 }
